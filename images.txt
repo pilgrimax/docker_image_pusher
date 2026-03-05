@@ -1,20 +1,20 @@
-httpd
+#httpd
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
---platform=linux/arm/v7 xhofe/alist:latest
+#xhofe/alist:latest
+#--platform=linux/arm/v7 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm/v7 xiaoyaliu/alist
---platform=linux/arm/v6 msterzhang/onelist
---platform=linux/arm/v7 jellyfin/jellyfin
---platform=linux/arm/v7 whyour/qinglong
---platform=linux/arm/v7 timbru31/java-node:17-jdk-hydrogen
-haishanh/yacd:latest
-80x86/clash:premium-2023.06.30
-h55205l/ffandown:v4.2
-dosyago/browserbox
---platform=linux/arm/v7 dreamacro/clash
---platform=linux/arm/v7 jrei/systemd-debian:latest
---platform=linux/arm/v7 jrei/systemd-ubuntu:latest
---platform=linux/arm/v7 itzg/minecraft-server:java17
+#--platform=linux/arm/v7 xiaoyaliu/alist
+#--platform=linux/arm/v6 msterzhang/onelist
+#--platform=linux/arm/v7 jellyfin/jellyfin
+#--platform=linux/arm/v7 whyour/qinglong
+#--platform=linux/arm/v7 timbru31/java-node:17-jdk-hydrogen
+#haishanh/yacd:latest
+#80x86/clash:premium-2023.06.30
+#h55205l/ffandown:v4.2
+#dosyago/browserbox
+#--platform=linux/arm/v7 dreamacro/clash
+#--platform=linux/arm/v7 jrei/systemd-debian:latest
+#--platform=linux/arm/v7 jrei/systemd-ubuntu:latest
+#--platform=linux/arm/v7 itzg/minecraft-server:java17
 sonar
