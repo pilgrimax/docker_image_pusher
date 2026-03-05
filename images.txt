@@ -17,4 +17,4 @@
 #--platform=linux/arm/v7 jrei/systemd-debian:latest
 #--platform=linux/arm/v7 jrei/systemd-ubuntu:latest
 #--platform=linux/arm/v7 itzg/minecraft-server:java17
-sonar
+sonarqube
