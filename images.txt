@@ -17,3 +17,4 @@
 --platform=linux/arm/v7 jrei/systemd-debian:latest
 --platform=linux/arm/v7 jrei/systemd-ubuntu:latest
 sonarqube
+yunqianqian/jdk1.7.0_80
